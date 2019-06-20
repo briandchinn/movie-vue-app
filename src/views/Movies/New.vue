@@ -1,4 +1,4 @@
-<template>
+npm<template>
   <div class="movies-new">
     <h3> {{ newMovie }}</h3>
 
